@@ -1,0 +1,12 @@
+---
+layout: ../../layouts/MyMarkdownLayout.astro
+title: "了解 Astro 中的 Markdown"
+author: Astro 学习者
+pubDate: 2022-08-08
+tags: ["astro", "blogging", "learning in public"]
+description: '了解 Astro 中的 Markdown'
+image:
+    url: 'https://docs.astro.build/assets/rose.webp'
+    alt: 'The Astro logo on a dark background with a pink glow.'
+---
+今天我收获颇丰！Astro 支持使用 Markdown 来创作，同时还可以使用来自 frontmatter 中的变量。我甚至能在 Astro 布局组件中拿到这些变量。
